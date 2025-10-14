@@ -1,0 +1,75 @@
+3. Estudio de Viabilidad
+
+a. Método DAFO
+
+Debilidades (D)	Amenazas (A)	Fortalezas (F)	Oportunidades (O)
+Falta de experiencia en el desarrollo completo del proyecto	Competencia existente con productos similares	Idea innovadora y necesidad real en el mercado	Crecimiento del sector y tendencia de adopción tecnológica
+Recursos financieros limitados	Cambios en la legislación o normativa	Motivación y compromiso del equipo	Posibilidad de alianzas con empresas o instituciones
+Tiempo limitado para el desarrollo	Cambios en las necesidades del público objetivo	Capacidad de aprendizaje y adaptación rápida	Acceso a nuevas tecnologías y herramientas gratuitas
+b. Estudio de Mercado
+
+Situación actual del mercado: Se observa un interés creciente en [sector relacionado con tu proyecto]. Los competidores actuales ofrecen soluciones parciales, dejando un hueco para un producto más completo o accesible.
+
+Necesidad del producto: Nuestro producto cubre [describe necesidad concreta], algo que actualmente no se resuelve de manera eficiente.
+
+Público objetivo: Principalmente [tipo de usuario: jóvenes, profesionales, empresas, estudiantes, etc.], que buscan [beneficio que ofrece tu proyecto].
+
+Hueco en el mercado: Sí, existe una oportunidad de ofrecer un producto diferenciador que [ventaja competitiva].
+
+
+i. Viabilidad Técnica/Económica
+
+Recursos necesarios:
+
+Hardware (HW):
+
+Ordenadores con capacidad para desarrollo y pruebas
+
+Dispositivos móviles (si aplica)
+
+Servidores o servicios de hosting
+
+Software (SW):
+
+Herramientas de desarrollo (IDE, frameworks, librerías)
+
+Herramientas de diseño (Photoshop, Figma, etc.)
+
+Software de gestión de proyectos (Trello, Jira, etc.)
+
+Recursos humanos:
+
+Desarrolladores
+
+Diseñadores
+
+Analista de mercado / testers
+
+Estimación inicial de presupuesto:
+
+Hardware: $XXX
+
+Software: $XXX
+
+Personal: $XXX
+
+
+ii. Viabilidad Temporal
+
+
+El proyecto es viable dentro del plazo previsto (X semanas/meses).
+
+Se consideran tiempos para investigación, diseño, desarrollo, pruebas y entrega final.
+
+
+c. Planificación Temporal / Agenda de Trabajo
+
+Diagrama de Gantt simplificado:
+
+Semana	Tarea
+1-2	Investigación y estudio de mercado
+3-4	Diseño conceptual y prototipo inicial
+5-7	Desarrollo del proyecto (HW/SW)
+8	Pruebas y ajustes
+9	Revisión final y documentación
+10	Presentación y entrega final
