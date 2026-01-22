@@ -1,0 +1,39 @@
+:root {
+  --violet-dark: #3b0b66;
+  --violet: #5b2b9a;
+  --violet-light: #8b63ff;
+}
+
+body {
+  background-color: #faf8ff;
+  font-family: 'Segoe UI', Roboto, sans-serif;
+}
+
+.text-purple {
+  color: var(--violet);
+}
+
+.btn-primary {
+  background: linear-gradient(90deg, var(--violet), var(--violet-light));
+  border: none;
+}
+
+.btn-outline-primary {
+  color: var(--violet);
+  border-color: var(--violet-light);
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.avatar {
+  background: linear-gradient(180deg, var(--violet), var(--violet-light));
+  color: #fff;
+  font-size: 32px;
+  font-weight: 700;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  line-height: 90px;
+}
